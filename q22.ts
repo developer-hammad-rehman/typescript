@@ -1,0 +1,11 @@
+let firstName1 = "hammad";
+console.log(firstName1 == "hammad")
+console.log(firstName1 !== "hammad")
+console.log(firstName1 == "anas")
+console.log(firstName1 !== "Anas")
+console.log(firstName1 == "Anas")
+console.log(!(firstName1 !== "Anas"))
+console.log(!(firstName1 == "Anas"))
+console.log(!(firstName1 == "hammad"))
+console.log(!(firstName1 != "hammad"))
+console.log(!(firstName1 == "Hammad"))
